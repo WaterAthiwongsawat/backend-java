@@ -12,7 +12,11 @@
 	<artifactId>backend-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend-java</name>
+<<<<<<< HEAD
 	<description>LAB1</description>
+=======
+	<description>6310210449</description>
+>>>>>>> 02dcf9d1fc8a6c708360b8c6390870136fe3c192
 	<properties>
 		<java.version>20</java.version>
 	</properties>
@@ -27,6 +31,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -48,6 +53,9 @@
 	
 	</dependencies>
 	
+=======
+	</dependencies>
+>>>>>>> 02dcf9d1fc8a6c708360b8c6390870136fe3c192
 
 	<build>
 		<plugins>
